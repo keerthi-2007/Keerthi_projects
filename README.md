@@ -6,7 +6,7 @@
 
 ## 🏅 Olympics Medals Dashboard
 - This project focuses on scraping Olympic medal data from Wikipedia, cleaning the data, visualizing medal trends, and building a simple dashboard.
- Source: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
+- Source: https://en.wikipedia.org/wiki/All-time_Olympic_Games_medal_table
 
 
 ### 📁 File Structure
